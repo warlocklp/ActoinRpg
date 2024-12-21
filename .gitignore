@@ -1,0 +1,10 @@
+.git/
+.idea/
+.vs/
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+/ActionRPG.sln
+/ActionRPG.sln.DotSettings.user
